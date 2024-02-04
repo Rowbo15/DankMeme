@@ -14,10 +14,10 @@ img {
 }
 
 h1 {
+  text-transform: uppercase;
   color: white;
   font-family: "Libre Baskerville", serif;
   text-align: center;
-  text-transform: capitalize;
 }
 
 p {
