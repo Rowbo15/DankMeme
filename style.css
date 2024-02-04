@@ -18,9 +18,12 @@ h1 {
   color: white;
   font-family: "Libre Baskerville", serif;
   text-align: center;
+  margin: 5px;
 }
 
 p {
   color: white;
   text-align: center;
+  margin: 5px;
+  font-size: 0.75rem;
 }
